@@ -1,6 +1,10 @@
 # SREManager
 Collection of articles for SRE Managers
-Tech
-System Design
-Soft Skills
+
+Tech \n
+
+System Design \n
+
+Soft Skills \n
+
 Team management
