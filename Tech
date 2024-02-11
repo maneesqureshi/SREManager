@@ -1,10 +1,13 @@
 This includes technologies you should be aware of as a SRE manager
 
 Source Code Management
-1. Learn GIT - GIT is distributed Version control system. It allows developers to make a local copy of the work, work in offline mode & then push the changes to "Main" 
+
+Learn GIT - GIT is distributed Version control system. It allows developers to make a local copy of the work, work in offline mode & then push the changes to "Main" 
+
 Resources
 Best book: https://git-scm.com/book/en/v2
-Video
+
+Videos
 English - https://www.youtube.com/watch?v=apGV9Kg7ics
 https://youtu.be/RGOj5yH7evk?si=yx0-DbHZH75jI_lu
 Hindi - https://www.youtube.com/watch?v=YbX_5FTOgL8
